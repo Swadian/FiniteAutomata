@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1615477632 source:c:\code\finiteautomata\main.cpp
+	<fstream>
+
