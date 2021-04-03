@@ -45,7 +45,7 @@ int moveto(char c)
 int main()
 {
     ifstream fin("date.in");
-    ofstream fout("rez.txt");
+    ofstream fout("date.out");
     fin>>n;
     state *stari= new state[n];
     int kk;
